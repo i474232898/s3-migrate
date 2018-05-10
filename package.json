@@ -1,0 +1,16 @@
+{
+  "name": "s3-migrate",
+  "version": "1.0.0",
+  "description": "s3 migration tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.234.1",
+    "dotenv": "^5.0.1",
+    "lodash": "^4.17.10"
+  }
+}
